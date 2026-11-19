@@ -9,7 +9,7 @@ This portfolio project demonstrates data visualization, KPI reporting, sales ana
 ## Live Dashboard
 
 **[View Interactive Dashboard](https://datastudio.google.com/reporting/6462c262-345e-4945-a5bf-20786355bcc1)**
-
+![Retail Sales Dashboard](dashboard.png)
 ## Key Performance Indicators
 
 | Metric | Value |
